@@ -61,6 +61,8 @@ class Uonick extends Human implements Techlead {
   ]
 
   environnement = [
+    'gitlab',
+    'gitlab-ci',
     'vscode',
     'webstorm',
     'phpstorm',
