@@ -77,7 +77,7 @@ class Uonick extends Human implements Techlead {
 
   contacts = {
     www: 'https://uonick.com',
-    email: 'hello@uonick.com',
+    email: 'hire@uonick.com',
   }
 }
 
