@@ -1,9 +1,10 @@
 ### Hi there 👋
+
+<!-- Hey Ya -->
+
 <h2 align="center">Skills </h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,adonis,ansible,css,figma,gitlab,html,js,laravel,linux,mysql,nestjs,nginx,nodejs,php,sass,ts,vite,vue&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,docker,adonis,ansible,css,figma,gitlab,html,js,laravel,linux,mysql,nestjs,nginx,nodejs,php,sass,ts,vite,vue&perline=5" />
 </p>
 
 
@@ -82,3 +83,6 @@ class Uonick extends Human implements Techlead {
 
 
 ```
+<h2 align="center">Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uonick)](https://github.com/uonick)
