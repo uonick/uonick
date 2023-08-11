@@ -13,8 +13,8 @@
 ```ts
 class Uonick extends Human implements Techlead {
   life = {
-    languages: ['English', 'Russian'],
-    interests: ['Motorcycles', 'Web development', 'Architecture', 'Health'],
+    languages: ['Russian', 'English'],
+    interests: ['Bicycles', 'Health', 'Fault Tolerant Web Application Architectures', 'Architectures', 'The Twelve-Factor App'б 'Motorcycles'],
   }
 
   skills = {
@@ -49,6 +49,7 @@ class Uonick extends Human implements Techlead {
       'hygen',
       'cypress',
       'tailwind',
+      'ionic',
     ],
   }
 
@@ -75,6 +76,7 @@ class Uonick extends Human implements Techlead {
     'insomnia',
     'traefik',
     'proxmox',
+    'tableplus',
   ]
 
   contacts = {
