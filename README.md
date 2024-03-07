@@ -14,7 +14,7 @@
 class Uonick extends Human implements Techlead {
   life = {
     languages: ['Russian', 'English'],
-    interests: ['Bicycles', 'Health', 'Fault Tolerant Web Application Architectures', 'Architectures', 'The Twelve-Factor App'б 'Motorcycles'],
+    interests: ['Bicycles', 'Health', 'Fault Tolerant Web Application Architectures', 'Architectures', 'The Twelve-Factor App', 'Motorcycles'],
   }
 
   skills = {
