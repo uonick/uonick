@@ -76,7 +76,6 @@ class Uonick extends Human implements Techlead {
     'fork',
     'mattermost',
     'postman',
-    'insomnia',
     'traefik',
     'proxmox',
     'tableplus',
