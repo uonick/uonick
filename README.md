@@ -42,6 +42,7 @@ class Uonick extends Human implements Techlead {
       'lumen',
       'vue',
       'vite',
+      'nuxt',
       'fastify',
       'express',
       'sequelize',
