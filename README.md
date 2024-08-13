@@ -32,7 +32,7 @@ class Uonick extends Human implements Techlead {
       'gitlab',
       'electronjs',
     ],
-    intermediate: ['go', 'linux'],
+    intermediate: ['rust', 'linux', 'macos'],
     frameworks: [
       'adonisjs',
       'deno',
@@ -47,6 +47,7 @@ class Uonick extends Human implements Techlead {
       'sequelize',
       'typeorm',
       'hygen',
+      'elysiajs',
       'cypress',
       'tailwind',
       'ionic',
@@ -55,7 +56,7 @@ class Uonick extends Human implements Techlead {
 
   specialities = [
     'fullstack',
-    'team/tech/lead',
+    'team/tech/lead/ceo',
     'backend',
     'frontend',
     'architectures',
@@ -64,6 +65,7 @@ class Uonick extends Human implements Techlead {
   environnement = [
     'gitlab',
     'gitlab-ci',
+    'gitea',
     'vscode',
     'webstorm',
     'phpstorm',
