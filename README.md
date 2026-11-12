@@ -8,25 +8,25 @@ I've been building web, mobile and desktop products since 2006. Some projects we
 
 ## My own products
 #### [BMO](https://bmo-oms.ru)
-Order management system.
+Order management system
 
 ### [Axiom](https://getaxiom.ru/)
 AI desktop app: the whole project context in chat, plus files, Git, terminal and Docker. Your code, history and credentials never leave your machine. *In development.*
 
 ### [OctoWorkspace](https://octows.ru/)
-Free desktop app for freelancers. Time and projects, notes, invoices and reports, payment tracking. Works offline.
+Free desktop app for freelancers. Time and projects, notes, invoices and reports, payment tracking. Works offline
 
 ### [mr.tabs](https://mrtabs.ru/)
-A replacement for ⌘Tab on macOS: a grid of running apps instead of the stock strip. Free, no account.
+A replacement for ⌘Tab on macOS: a grid of running apps instead of the stock strip. Free, no account
 
 ### [Techdebt.ai](https://podcast.uonick.com/)
-A podcast about tech.
+A podcast about tech
 
-### [Fractal](https://uonick.com/#fr)
-Online app for freelancers and small studios: time tracking, invoices and reports, deals, deadlines. *Work in progress.*
+### [PodcastFlow](https://github.com/uonick/podcast-flow)
+A desktop application for podcasting
 
 ### [Picman](https://uonick.com/#pc)
-Management system for photo businesses: photographers, retouchers, studios.
+Management system for photo businesses: photographers, retouchers, studios
 
 ---
 
@@ -38,7 +38,6 @@ Management system for photo businesses: photographers, retouchers, studios.
 - **Night Owls** - an engine for building social networks
 - **Photohunt** - a service and app for photo hunting
 - **YouTrack time tracker** - with autofill
-- **Quiz** - a mobile quiz game
 
 
 <h2 align="center">Skills </h2>
